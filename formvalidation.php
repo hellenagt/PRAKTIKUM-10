@@ -139,6 +139,8 @@ function cek_input($data){
  echo "<br>";
  echo "Website = " .$web;
  echo "<br>";
+ echo "Email = " .$email;
+ echo "<br>";
  echo "Telp = " .$telp;
  echo "<br>";
  echo "Pesan = " .$pesan;
